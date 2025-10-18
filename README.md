@@ -50,7 +50,7 @@ Pastikan kamu sudah menginstal:
 
 Buat database di MySQL:
 ```sql
-CREATE DATABASE appdb;
+CREATE DATABASE spring_jwt_crud;
 ```
 
 Lalu ubah konfigurasi di `src/main/resources/application.properties`:
